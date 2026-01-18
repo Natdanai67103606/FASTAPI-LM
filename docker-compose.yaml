@@ -1,5 +1,5 @@
 services:
-  api-Natdanai:
+  api-natdanai:
     build: .
     ports:
       - "8606:8000"
